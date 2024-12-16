@@ -2,7 +2,7 @@
 const countdownElement = document.getElementById("countdown");
 
 // Date cible : 18 décembre à 17h
-const targetDate = new Date("2024-12-18T17:00:00");
+const targetDate = new Date("2024-12-18T18:00:00");
 
 // Fonction pour mettre à jour le compte à rebours
 function updateCountdown() {
